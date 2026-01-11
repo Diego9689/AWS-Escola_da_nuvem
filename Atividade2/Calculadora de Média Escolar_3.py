@@ -31,4 +31,5 @@ def main(*notas: float):
 Nota_1 = 7.5
 Nota_2 = 8.0
 Nota_3 = 6.5
+
 main(Nota_1,Nota_2,Nota_3)
